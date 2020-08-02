@@ -5,6 +5,11 @@ numberTwo = 6
 
 print(numberOne + numberTwo)
 
+numberOne = "5"
+numberTwo = "6"
+
+print(numberOne + numberTwo) # this is concatenation
+
 ## STEP 2 ##
 
 # floatOne = 5.05
