@@ -6,7 +6,7 @@ print(name)
 
 # ERROR: --- scope!!
 
-print(name)
+print(name) 
 
 name = "Robert"
 
